@@ -1,4 +1,4 @@
-# Pavel Alimpiev - Team Lead @ PaySend
+# Pavel Alimpiev - Tech Manager @ Yandex
 
 Python = :heart:, know a little bit about JS and C#.
 
