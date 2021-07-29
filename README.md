@@ -1,4 +1,4 @@
-# Pavel Alimpiev - Tech Manager @ Yandex
+# Pavel Alimpiev - Python Software Engineer @ Denti.AI
 
 Python = :heart:, know a little bit about JS and C#.
 
