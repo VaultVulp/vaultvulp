@@ -1,4 +1,4 @@
-# Pavel Alimpiev - Python Software Engineer @ Denti.AI
+# Pavel Alimpiev - Python Software Engineer @ Collectly
 
 Python = :heart:, know a little bit about JS and C#.
 
